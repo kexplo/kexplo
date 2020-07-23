@@ -1,1 +1,1 @@
-![Woah!](https://github.com/kexplo/kexplo/blob/master/screenshot-2.png)
+![Woah!](https://github.com/kexplo/kexplo/blob/master/screenshot-1.png)
